@@ -1,7 +1,7 @@
-package com.ibt.app;
+lpackage com.ibt.app;
 
 /**
- * Hello world!
+ * Hello world- this is Atem
  *
  */
 public class App 
